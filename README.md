@@ -6,6 +6,22 @@ Repo containing code of assessment of Data Science for Spatial Systems course fr
 
 The code supports an academic research exercise to perform spatial and non-spatial clustering technics to assess the current administrative municipality clustering in Colombia, South America.
 
+## Sections
+The script is divided in the following sections:
+
+1. Introduction
+    1. Literature review
+    1. Research question
+1. Data
+1. Methodology
+1. Results
+    1. Partially and non spatial clustering
+    1. Spatial clustering
+1. Discussion
+1. Conclusion
+1. References
+
+
 ## Results
 
 ### DBSCAN Clustering
