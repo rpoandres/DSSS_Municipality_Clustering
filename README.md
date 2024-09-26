@@ -9,12 +9,12 @@ The code support a academic research exercise to perform spatial and non-spatial
 ## Results
 
 ### DBSCAN Clustering
-![DBSCAN Clustering](Results_DBSCAN.png "DBSCAN Clustering")
+![DBSCAN Clustering](Results_DBSCAN.jpg "DBSCAN Clustering")
 ### Hierarchical Clustering
-![Hierarchical Clustering](Results_Hierarchical.png "Hierarchical Clustering")
+![Hierarchical Clustering](Results_Hierarchical.jpg "Hierarchical Clustering")
 ### Kmeans Clustering
-![Kmeans Clustering](Results_Kmeans.png "Kmeans Clustering")
+![Kmeans Clustering](Results_Kmeans.jpg "Kmeans Clustering")
 ### Spatial Clusteing using municipality threshold
-![Spatial Clusteing using municipality threshold](Results_Spatial_Municipality.png "Spatial Clusteing using municipality threshold")
+![Spatial Clusteing using municipality threshold](Results_Spatial_Municipality.jpg "Spatial Clusteing using municipality threshold")
 ### Spatial Clusteing using population threshold
-![Spatial Clusteing using population threshold](Results_Spatial_Population.png "Spatial Clusteing using population threshold")
+![Spatial Clusteing using population threshold](Results_Spatial_Population.jpg "Spatial Clusteing using population threshold")
